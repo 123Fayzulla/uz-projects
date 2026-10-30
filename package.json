@@ -1,0 +1,8 @@
+{
+  "name": "uz-projects-prototype",
+  "version": "0.1.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
